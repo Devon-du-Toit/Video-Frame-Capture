@@ -1,0 +1,7 @@
+{
+  "video_source_type": "url",
+  "video_url": "https://youtube/Some/Video/Url/Here",
+  "video_file": "saved_video.mp4",
+  "frame_output_dir": "output/video_frames",
+  "every_n_frames": 30
+}
